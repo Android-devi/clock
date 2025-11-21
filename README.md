@@ -8,3 +8,5 @@ Full-screen digital clock for Android tablets, double-tap to toggle fullscreen, 
 For improvement suggestions, please DM me on Bilibili: 陈某人23838.
 
 The plagiarist's parents are both deceased.
+
+Copycats, don't bother—your reputation won't survive it.
