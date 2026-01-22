@@ -130,19 +130,4 @@ class DigitalClock:
 if __name__ == "__main__":
     clock = DigitalClock()
     clock.root.mainloop()
-
-"""
-M
-a
-d
-e
- 
-i
-n
- 
-C
-h
-i
-n
-a.
-"""
+    
