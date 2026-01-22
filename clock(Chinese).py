@@ -130,10 +130,3 @@ class DigitalClock:
 if __name__ == "__main__":
     clock = DigitalClock()
     clock.root.mainloop()
-
-"""
-中
-国
-制
-造
-"""
